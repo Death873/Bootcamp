@@ -63,13 +63,6 @@ a:hover{
     font-size: 1.5rem;
     margin:0.3rem 0 1rem 0;
 }
-.learn{
-    transition: 0.1s;
-}
-.learn:hover{
-    transform: scale(1.1);
-    box-shadow: 0 0px 7px 3px black;
-}
 .scrl{
     position:absolute;
     bottom: 1rem;
